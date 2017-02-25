@@ -6,7 +6,7 @@ This tutorial will help you to better integrate Firefox with GNOME
 
 [Install extension that enables system notifications](https://addons.mozilla.org/firefox/addon/gnotifier/) instead of pop-up windows
 
-[Install latest Firefox GNOME theme](https://github.com/gnome-integration-team/firefox-gnome/releases)
+[Install latest Firefox GNOME theme](https://addons.mozilla.org/en-Us/firefox/addon/gnome-3-updated/)
 
  * Restart Firefox
  * Open Firefox menu and select `Customize...`
